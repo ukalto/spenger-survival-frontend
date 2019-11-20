@@ -23,9 +23,9 @@ const DataPrivacyPage = () => {
     <ul class="list-unstyled">
         <li>E-Mail: <a href="---">datenschutz@spengersurvival.com</a></li>
     </ul>
-    <p class="font-weight-bold">2. Datenverarbeitung „VISION-Website“</p>
+    <p class="font-weight-bold">2. Datenverarbeitung „SpengerSurvival-Website“</p>
     <p>2.1. Umfang der Verarbeitung personenbezogener Daten</p>
-    <p>Im Zuge Ihre Nutzung unserer VISION-Website werden wir folgende personenbezogene Daten über Sie automatisch
+    <p>Im Zuge Ihre Nutzung unserer SpengerSurvival-Website werden wir folgende personenbezogene Daten über Sie automatisch
         erheben:</p>
     <ul>
         <li>Datum und Uhrzeit des Aufrufs einer Seite auf unserer Website</li>
@@ -33,15 +33,18 @@ const DataPrivacyPage = () => {
         <li>IP-Adresse</li>
         <li>Name und Version Ihres Web-Browsers</li>
         <li>Session-ID</li>
-        <li>bestimmte Cookies (siehe Punkt 6. “Cookies”)</li>
+        <li>Instagram</li>
+        <li>Facebook</li>
+        <li>Twitter</li>
+        <li>Andere Social Media Links</li>
     </ul>
     <p>2.2. Rechtsgrundlage für die Verarbeitung personenbezogener Daten</p>
-    <p>Soweit es die Daten Ihrer Nutzung unserer VISION-Website betrifft, stützen wir uns zur Rechtfertigung der
+    <p>Soweit es die Daten Ihrer Nutzung unserer SpengerSurvival-Website betrifft, stützen wir uns zur Rechtfertigung der
         Verarbeitung auf die Erforderlichkeit zur Erfüllung eines Vertrages nach Art 6 Abs 1 lit b DSGVO sowie unser
         berechtigtes Interesse nach Art 6 Abs 1 lit f DSGVO, welches darin besteht, unsere Website nutzerfreundlich zu
-        gestalten und unsere VISION-Website vor Angriffen zu schützen.</p>
+        gestalten und unsere SpengerSurvival-Website vor Angriffen zu schützen.</p>
     <p>2.3. Zweck der Datenverarbeitung</p>
-    <p>Wir verarbeiten Ihre Daten im Zusammenhang mit dem Besuch unserer VISION-Website zu den folgenden Zwecken:</p>
+    <p>Wir verarbeiten Ihre Daten im Zusammenhang mit dem Besuch unserer SpengerSurvival-Website zu den folgenden Zwecken:</p>
     <ul>
         <li>um Ihnen unsere Website, einschließlich ihrer Funktionen, zur Verfügung zu stellen und um diese Website
             weiter zu verbessern und zu entwickeln;</li>
@@ -49,29 +52,18 @@ const DataPrivacyPage = () => {
         <li>um Angriffe auf unsere Website erkennen, verhindern und untersuchen zu können.</li>
     </ul>
     <p>2.4. Dauer der Speicherung</p>
-    <p>Wir werden Ihre Daten zur Nutzung der VISION-Website grundsätzlich für eine Dauer der bestehenden
+    <p>Wir werden Ihre Daten zur Nutzung der SpengerSurvival-Website grundsätzlich für eine Dauer der bestehenden
         Vertragsbeziehung und darüber hinaus für die gesetzlich vorgeschriebenen Aufbewahrungsfristen speichern. Eine
         längere Speicherung erfolgt nur, soweit dies erforderlich ist, um festgestellte Angriffe auf unsere Website zu
         untersuchen und darüber hinaus nur bis zur Beendigung maßgeblicher Verjährungsfristen, gesetzlicher
         Aufbewahrungsfristen oder allfälliger Rechtsstreitigkeiten.</p>
     <p>2.5. Empfänger von Daten</p>
-    <p>Zum Betrieb und der Verwaltung der VISION-Website setzen wir regelmäßig IT-Dienstleister ein, die nach unserem
-        Auftrag und nach unseren Weisungen unter Umständen auch Zugriff auf personenbezogene Daten haben, um die
-        beauftragten IT-Dienstleistungen erbringen zu können.</p>
     <p>Ihre Daten werden ohne Ihre Einwilligung an keine Dritten für deren eigene Zwecke weitergegeben.</p>
-    <p class="font-weight-bold">3. Datenverarbeitung „Anbahnung und Abwicklung Energiehandelsgeschäft“</p>
+    <p class="font-weight-bold">3. Datenverarbeitung „Anbahnung und Abwicklung Tipps</p>
     <p>3.1. Umfang der Verarbeitung personenbezogener Daten</p>
-    <p>Es werden Ihre folgenden personenbezogenen Daten, die Sie uns bei Abschluss eines Energiehandelsgeschäftes bzw
-        eines energiehandelsnahen Vertrages bekannt gegeben haben und im Weiteren aus der laufenden Vertragserfüllung
-        erhoben werden, verarbeitet, und zwar: Firmenname (insb Einzelunternehmer), Titel, Geschlecht, Vorname,
-        Nachname, Anschrift, E-Mail-Adresse, Telefonnummer, Inhalte von Telefongesprächen, IP-Adresse, Bonitätsdaten,
-        CDD-Daten (inkl negative Medienberichterstattung), Sanktionslisten-Informationen (anlassbezogen Geburtsdatum,
-        Reisepassnummer, Staatsangehörigkeit), Zahlungsmodalitäten, Bankverbindung, Rechnungsdaten, Zählpunkte Ihrer
-        Anlagen, Firmenbuchnummer, EIC, Shipper-Code, UID-Nummer, ACER-Code und LEI.</p>
-    <p>Vor Abschluss eines Vertrages und während eines aufrechten Vertragsverhältnisses verwendet VERBUND die von Ihnen
-        bekannt gegebenen und die von uns zusätzlich erhobenen Daten, um Auskünfte über Ihre Bonität bei der
-        Ratingagentur Moody’s bzw. den Wirtschaftsauskunfteien KSV1870 und/oder Creditreform sowie weitere Auskünfte
-        über Sie bei Factiva (Dow Jones) und/oder Bureau van Dijk (Compliance Catalyst) einzuholen.</p>
+    <p>Es werden Ihre folgenden personenbezogenen Daten, die Sie uns bei Abschluss eines Tipps
+        gegeben haben und im Weiteren aus der laufenden Vertragserfüllung
+        erhoben werden, verarbeitet, und zwar: IP-Adresse, Social Media Accounts, Vorname, Nachname</p>
     <p>3.2. Rechtsgrundlage für die Verarbeitung personenbezogener Daten</p>
     <p>Die Rechtsgrundlagen für die Verarbeitung der Daten unter Punkt 3.1. sind Art 6 Abs 1 lit b DSGVO und daher die
         Erforderlichkeit zur Erfüllung eines Vertrages sowie zur Erfüllung rechtlicher Verpflichtungen nach Art 6 Abs 1
@@ -197,7 +189,7 @@ const DataPrivacyPage = () => {
                 </tr>
             </tbody>
         </table>
-    </div><br>
+      </div><br />
     <p>4.3. Funktionale Cookies</p>
     <p>Außerdem verwendet VERBUND Cookies, die Ihnen ermöglichen, gespeicherte Suchvorgänge und ähnliche Funktionen (zB
         Sprachauswahl) zu speichern und zu verwenden. Solche Cookies bleiben auch nach der Internetsitzung gespeichert
